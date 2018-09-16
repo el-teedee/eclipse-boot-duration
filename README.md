@@ -1,4 +1,5 @@
-==Warning: work in progress / not ready for use==
+:warning: **Warning: work in progress / not ready for use** :warning:
+
 # Description
 ## What is this repo for?
 Shell scripts to help measure [Eclipse](https://www.eclipse.org/) Boot duration.
@@ -7,16 +8,16 @@ See install and Howto below.
 ## Who will use this repo or project?
 Anyone interested to measure its Eclipse application startup time / performances, or by [speeding up Eclipse](https://stackoverflow.com/q/316265/912046) 
 ## What is the goal of this project?
-Provide a measuring tool to help comparing different eclipse.ini configurations.
+Provide a measuring method to help comparing different `eclipse.ini` configurations.
 
 # Install
-==TODO==
+:heavy_check_mark: **TODO**
 
 # Howto
 See: `shell-scripts/getEclipseBootDuration.sh`
 
 ## Enable Eclipse finest log level
-==TODO==
+:heavy_check_mark: **TODO**
 See `/path/to/eclipse-workspaces/my-workspace/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.8.3.20180227-2137.xml`
 
 ## Run Eclipse
